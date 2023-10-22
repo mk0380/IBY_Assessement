@@ -1,6 +1,6 @@
-Name: Mayank Kumar
-University: IIT Kanpur
-Department: MSE
+Name: Mayank Kumar |
+University: IIT Kanpur |
+Department: MSE |
 Roll: 210596
 
 
