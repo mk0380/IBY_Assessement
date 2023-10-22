@@ -10,7 +10,7 @@ Strp 4: Run command: npm start
 
         Now the backend whould have started and you would be getting message that server had started on port 5000
 
-Step 5: now open and new termical and now run command: cd IBY_Assessment
+Step 5: now open a new termical and now run command: cd IBY_Assessment
                                                        cd ./frontend
                                                        npm i --force
                                                        npm start
