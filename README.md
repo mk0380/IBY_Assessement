@@ -1,3 +1,9 @@
+Name: Mayank Kumar
+University: IIT Kanpur
+Department: MSE
+Roll: 210596
+
+
 # IBY_Assessement
 
 Step 1: Open your VS code select the folder where you want to run the code and run this command in terminal : git clone https://github.com/mk0380/IBY_Assessement
